@@ -28,7 +28,7 @@ npm install gamechainsdk
 ```javascript
 import GameChainSDK from 'gamechainsdk';
 
-const providerUrl = 'https://ethereum-sepolia-rpc.publicnode.com';
+const providerUrl = 'https://rpcv2-testnet.ancient8.gg/';
 const contractAddress = '0x8628d91E8311B4856ae7d3E317a0E8fFf48E0f98'; // ANCIENT8 network
 
 const sdk = new GameChainSDK(providerUrl, contractAddress);
