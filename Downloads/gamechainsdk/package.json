@@ -1,0 +1,20 @@
+{
+  "name": "gamechainsdk",
+  "version": "1.0.0",
+  "description": "A SDK for interacting with blockchain game assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "blockchain",
+    "sdk",
+    "game",
+    "web3"
+  ],
+  "author": "Sambit Sargam Ekalabya",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^4.16.0"
+  }
+}
