@@ -1,6 +1,6 @@
 {
   "name": "gamechainsdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A SDK for interacting with blockchain game assets",
   "main": "index.js",
   "scripts": {
